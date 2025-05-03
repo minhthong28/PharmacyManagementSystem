@@ -1,0 +1,423 @@
+D:\LapTrinhCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe.config
+D:\LapTrinhCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe
+D:\LapTrinhCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.pdb
+D:\LapTrinhCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\Guna.UI2.dll
+D:\LapTrinhCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csprojResolveAssemblyReference.cache
+D:\LapTrinhCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Properties.Resources.resources
+D:\LapTrinhCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.GenerateResource.Cache
+D:\LapTrinhCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.exe
+D:\LapTrinhCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.pdb
+D:\LapTrinhCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmAdmin.resources
+D:\LapTrinhCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmSignIn.resources
+D:\LapTrinhCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmLoad.resources
+D:\LapTrinhCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_DashBoard.resources
+D:\LapTrinhCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_AddUser.resources
+D:\LapTrinhCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmPharmacist.resources
+D:\LapTrinhCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_ViewUser.resources
+D:\LapTrinhCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Profile.resources
+D:\đồ án\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe.config
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.exe
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.pdb
+D:\đồ án\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe
+D:\đồ án\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.pdb
+D:\đồ án\PharmacySystem\PharmacySystem\bin\Debug\Guna.UI2.dll
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csprojResolveAssemblyReference.cache
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_AddUser.resources
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_DashBoard.resources
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Profile.resources
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_ViewUser.resources
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmLoad.resources
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmPharmacist.resources
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmSignIn.resources
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmAdmin.resources
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Properties.Resources.resources
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.GenerateResource.Cache
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_DashBoard.resources
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_AddMedicine.resources
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_ViewMedicine.resources
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_UpdateMedicine.resources
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_ViewCheckValidity.resources
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe.config
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.exe
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.pdb
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.pdb
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\bin\Debug\Guna.UI2.dll
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_AddUser.resources
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_DashBoard.resources
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Profile.resources
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_ViewUser.resources
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmLoad.resources
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmPharmacist.resources
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmSignIn.resources
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmAdmin.resources
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Properties.Resources.resources
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_AddMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_DashBoard.resources
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_UpdateMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_ViewCheckValidity.resources
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_ViewMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.GenerateResource.Cache
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmForgetPassword.resources
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Supplier.resources
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csprojResolveAssemblyReference.cache
+D:\LapTrinhCSDL\đồ án\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.SupplierUpdate.resources
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.SupplierUpdate.resources
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Supplier.resources
+D:\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmForgetPassword.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe.config
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.exe
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.pdb
+D:\đồ án 2\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe
+D:\đồ án 2\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.pdb
+D:\đồ án 2\PharmacySystem\PharmacySystem\bin\Debug\Guna.UI2.dll
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csprojResolveAssemblyReference.cache
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.SupplierUpdate.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_AddUser.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_DashBoard.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Profile.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Supplier.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_ViewUser.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmForgetPassword.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmLoad.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmPharmacist.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmSignIn.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmAdmin.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Properties.Resources.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_AddMedicine.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_DashBoard.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_UpdateMedicine.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_ViewCheckValidity.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_ViewMedicine.resources
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.GenerateResource.Cache
+D:\đồ án 2\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_SellMedicine.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe.config
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.exe
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.pdb
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csprojResolveAssemblyReference.cache
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.SupplierUpdate.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_AddUser.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_DashBoard.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Profile.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Supplier.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_ViewUser.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmForgetPassword.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmLoad.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmPharmacist.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmSignIn.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmAdmin.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Properties.Resources.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_AddMedicine.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_DashBoard.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_SellMedicine.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_UpdateMedicine.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_ViewMedicine.resources
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.GenerateResource.Cache
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.pdb
+D:\đồ án 2 - Copy\PharmacySystem\PharmacySystem\bin\Debug\Guna.UI2.dll
+D:\đồ án 3\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe.config
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.exe
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.pdb
+D:\đồ án 3\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe
+D:\đồ án 3\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.pdb
+D:\đồ án 3\PharmacySystem\PharmacySystem\bin\Debug\Guna.UI2.dll
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csprojResolveAssemblyReference.cache
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.SupplierUpdate.resources
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_AddUser.resources
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_DashBoard.resources
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Profile.resources
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Supplier.resources
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_ViewUser.resources
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmForgetPassword.resources
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmLoad.resources
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmPharmacist.resources
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmSignIn.resources
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmAdmin.resources
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Properties.Resources.resources
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_AddMedicine.resources
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_DashBoard.resources
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_SellMedicine.resources
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_UpdateMedicine.resources
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_ViewMedicine.resources
+D:\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.GenerateResource.Cache
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe.config
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.exe
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.pdb
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.pdb
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\bin\Debug\Guna.UI2.dll
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csprojResolveAssemblyReference.cache
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.SupplierUpdate.resources
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_AddUser.resources
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_DashBoard.resources
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Profile.resources
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Supplier.resources
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_ViewUser.resources
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmForgetPassword.resources
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmLoad.resources
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmPharmacist.resources
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmSignIn.resources
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmAdmin.resources
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Properties.Resources.resources
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_AddMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_DashBoard.resources
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_SellMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_UpdateMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_ViewMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.GenerateResource.Cache
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.ResolveComReference.cache
+D:\LapTrinhCSDL\đồ án\đồ án 3\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Employee.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe.config
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.ResolveComReference.cache
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.exe
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.pdb
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.pdb
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\Guna.UI2.dll
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.SupplierUpdate.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_AddUser.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_DashBoard.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Employee.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Supplier.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_ViewUser.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmForgetPassword.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmLoad.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmPharmacist.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmSignIn.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmAdmin.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Properties.Resources.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_AddMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_DashBoard.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_SellMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_UpdateMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_ViewMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.GenerateResource.Cache
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Order.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\BouncyCastle.Crypto.dll
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\itextsharp.dll
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\itextsharp.xml
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.OrderRequest.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csprojResolveAssemblyReference.cache
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe.config
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.ResolveComReference.cache
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.exe
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.pdb
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.pdb
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\BouncyCastle.Crypto.dll
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\Guna.UI2.dll
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\itextsharp.dll
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\itextsharp.xml
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csprojResolveAssemblyReference.cache
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.OrderRequest.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.SupplierUpdate.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_AddUser.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_DashBoard.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Employee.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Order.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Supplier.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_ViewUser.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmForgetPassword.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmLoad.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmPharmacist.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmSignIn.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmAdmin.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Properties.Resources.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_AddMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_DashBoard.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_SellMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_UpdateMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_ViewMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.GenerateResource.Cache
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe.config
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.ResolveComReference.cache
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.exe
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.pdb
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.pdb
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\BouncyCastle.Crypto.dll
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\Guna.UI2.dll
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\itextsharp.dll
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\itextsharp.xml
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csprojResolveAssemblyReference.cache
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.OrderRequest.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.SupplierUpdate.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_AddUser.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_DashBoard.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Employee.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Order.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Supplier.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_ViewUser.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmForgetPassword.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmLoad.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmPharmacist.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmSignIn.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmAdmin.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Properties.Resources.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_AddMedicine.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_DashBoard.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_SellMedicine.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_UpdateMedicine.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_ViewMedicine.resources
+D:\đồ án 4\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.GenerateResource.Cache
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe.config
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.ResolveComReference.cache
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.exe
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.pdb
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.pdb
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\BouncyCastle.Crypto.dll
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\Guna.UI2.dll
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\itextsharp.dll
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\itextsharp.xml
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csprojResolveAssemblyReference.cache
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.OrderRequest.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.SupplierUpdate.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_AddUser.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_DashBoard.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Employee.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Order.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Supplier.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_ViewUser.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmForgetPassword.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmLoad.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmPharmacist.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmSignIn.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmAdmin.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Properties.Resources.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_AddMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_DashBoard.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_SellMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_UpdateMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_ViewMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.GenerateResource.Cache
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.dll
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.WinForms.dll
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.Wpf.dll
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.pdb
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.xml
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.WinForms.pdb
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.WinForms.xml
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.Wpf.pdb
+D:\LapTrinhCSDL\đồ án\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.Wpf.xml
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe.config
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.ResolveComReference.cache
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.exe
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.pdb
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.pdb
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\BouncyCastle.Crypto.dll
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\Guna.UI2.dll
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\itextsharp.dll
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.dll
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.WinForms.dll
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.Wpf.dll
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\itextsharp.xml
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.pdb
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.xml
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.WinForms.pdb
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.WinForms.xml
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.Wpf.pdb
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.Wpf.xml
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csprojResolveAssemblyReference.cache
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.OrderRequest.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.SupplierUpdate.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_AddUser.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_DashBoard.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Employee.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Order.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Supplier.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_ViewUser.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmForgetPassword.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmLoad.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmPharmacist.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmSignIn.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmAdmin.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Properties.Resources.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_AddMedicine.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_DashBoard.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_SellMedicine.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_UpdateMedicine.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_ViewMedicine.resources
+D:\đồ án 5\đồ án 5\đồ án 4\đồ án 4\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.GenerateResource.Cache
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.ResolveComReference.cache
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.OrderRequest.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.SupplierUpdate.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_AddUser.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_DashBoard.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Employee.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Order.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Supplier.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_ViewUser.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmForgetPassword.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmLoad.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmPharmacist.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmSignIn.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmAdmin.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Properties.Resources.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_AddMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_DashBoard.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_SellMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_UpdateMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_ViewMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.GenerateResource.Cache
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe.config
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.pdb
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\bin\Debug\BouncyCastle.Crypto.dll
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\bin\Debug\Guna.UI2.dll
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\bin\Debug\itextsharp.dll
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.dll
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.WinForms.dll
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.Wpf.dll
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\bin\Debug\itextsharp.xml
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.pdb
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.xml
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.WinForms.pdb
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.WinForms.xml
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.Wpf.pdb
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.Wpf.xml
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.exe
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.pdb
+D:\LapTrinhCSDL\đồ án\đồ án 6\đồ án 6\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csprojResolveAssemblyReference.cache
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe.config
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.ResolveComReference.cache
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.exe
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.pdb
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.exe
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\PharmacySystem.pdb
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\BouncyCastle.Crypto.dll
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\Guna.UI2.dll
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\itextsharp.dll
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.dll
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.WinForms.dll
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.Wpf.dll
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\itextsharp.xml
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.pdb
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.xml
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.WinForms.pdb
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.WinForms.xml
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.Wpf.pdb
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\bin\Debug\LiveCharts.Wpf.xml
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csprojResolveAssemblyReference.cache
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.OrderRequest.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.SupplierUpdate.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_AddUser.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_DashBoard.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Employee.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Order.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_Supplier.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Admin.UC_ViewUser.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmForgetPassword.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmLoad.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmPharmacist.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmSignIn.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.frmAdmin.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.Properties.Resources.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_AddMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_DashBoard.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_SellMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_UpdateMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.User.US_ViewMedicine.resources
+D:\LapTrinhCSDL\đồ án\đồ án_ LTCSDL\đồ án\PharmacySystem\PharmacySystem\obj\Debug\PharmacySystem.csproj.GenerateResource.Cache
